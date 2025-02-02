@@ -1,4 +1,4 @@
-# project_c9r7a_e9x2b_w4k5a
+# Concert manager project
 
 ## Project Description
 Our project is an application that will help with event management. Our application specifically manages venues that hold concerts and orchestras. Our application also tracks tickets and show members associated with them, as well as performance recordings and stage crew members
